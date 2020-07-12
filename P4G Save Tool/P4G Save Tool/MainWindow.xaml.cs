@@ -18,6 +18,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
+using System.Security.Cryptography;
 
 namespace P4G_Save_Tool
 {
@@ -1241,10 +1242,31 @@ namespace P4G_Save_Tool
                 }
             }
         }
+        
+        private byte[] CalculateMD5(string filename)
+        {
+            using (var md5 = MD5.Create())
+            {
+                using (var stream = File.OpenRead(filename))
+                {
+                    return md5.ComputeHash(stream);
+                }
+            }
+        }
+        
+        private void UpdateSaveSlot(Stream stream)
+        {
+            using (BinaryWriter w = new BinaryWriter(stream))
+            {
+                w.BaseStream.Position = 24;
+                w.Write(CalculateMD5(filename));
+            }
+        }
 
         private void Save_Click(object sender, RoutedEventArgs e)
         {
             SaveFile(File.OpenWrite(filename));
+            UpdateSaveSlot(File.OpenWrite(filename + "slot"));
         }
 
         private void itemSectBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -1694,6 +1716,8 @@ namespace P4G_Save_Tool
             if (d.ShowDialog() == true)
             {
                 SaveFile(File.OpenWrite(filename = d.FileName));
+                UpdateSaveSlot(File.OpenWrite(filename + "slot"));
+                
                 Title = originalTitle + " - " + d.SafeFileName;
                 isFTP = false;
             }
@@ -1976,7 +2000,7 @@ namespace P4G_Save_Tool
             "After School",
             "Evening"
             };
-            public static string[] party { get;set; } = new string[]
+            public static string[] party = new string[]
             {
             "Yu Narukami",
             "Yosuke Hanamura",

@@ -1,32 +1,22 @@
-F:\Tools\P4G Save Tool\P4G Save Tool\bin\Release\P4G Save Tool.exe.config
-F:\Tools\P4G Save Tool\P4G Save Tool\bin\Release\P4G Save Tool.exe
-F:\Tools\P4G Save Tool\P4G Save Tool\bin\Release\P4G Save Tool.pdb
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\About.g.cs
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\MainWindow.g.cs
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\App.g.cs
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool_MarkupCompile.cache
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool_MarkupCompile.lref
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\About.baml
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\MainWindow.baml
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.g.resources
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\P4G_Save_Tool.Properties.Resources.resources
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.csproj.GenerateResource.Cache
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.exe
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.pdb
-F:\Tools\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.csprojResolveAssemblyReference.cache
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\P4G Save Tool.exe.config
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.exe
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.pdb
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\P4G Save Tool.exe
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\P4G Save Tool.pdb
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.csprojResolveAssemblyReference.cache
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\About.g.cs
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\MainWindow.g.cs
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\App.g.cs
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool_MarkupCompile.cache
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool_MarkupCompile.lref
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\About.baml
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\MainWindow.baml
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.g.resources
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G_Save_Tool.Properties.Resources.resources
-C:\Users\Tackm\OneDrive\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.csproj.GenerateResource.Cache
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\P4G Save Tool.exe.config
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\P4G Save Tool.exe
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\P4G Save Tool.pdb
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\mscorlib.dll
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\normidna.nlp
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\normnfc.nlp
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\normnfd.nlp
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\normnfkc.nlp
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\bin\Release\normnfkd.nlp
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.csprojResolveAssemblyReference.cache
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\About.g.cs
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\MainWindow.g.cs
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\App.g.cs
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool_MarkupCompile.cache
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool_MarkupCompile.lref
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\About.baml
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\MainWindow.baml
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.g.resources
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G_Save_Tool.Properties.Resources.resources
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.csproj.GenerateResource.Cache
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.exe
+C:\Users\sanji\Documents\GitHub\P4G-Save-Tool\P4G Save Tool\P4G Save Tool\obj\Release\P4G Save Tool.pdb
